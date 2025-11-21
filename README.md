@@ -26,5 +26,4 @@ The objective is to understand sales patterns, outlet performance, customer beha
 - **Seaborn**
 - Jupyter Notebook
 
-## 📁 Project Structure
 
